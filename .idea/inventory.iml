@@ -111,6 +111,20 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.flipkart.zjsonpatch:zjsonpatch:0.4.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.jknack:handlebars:4.0.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.jknack:handlebars-helpers:4.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-rest-hal-browser:3.1.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-rest-webmvc:3.1.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-rest-core:3.1.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.hateoas:spring-hateoas:0.25.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.1.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.atteo:evo-inflector:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:2.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:2.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:2.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-core:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.hdrhistogram:HdrHistogram:2.1.9" level="project" />
+    <orderEntry type="library" name="Maven: org.latencyutils:LatencyUtils:2.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.sonarsource.sonarqube:sonar-plugin-api:8.1.0.31237" level="project" />
   </component>
 </module>
