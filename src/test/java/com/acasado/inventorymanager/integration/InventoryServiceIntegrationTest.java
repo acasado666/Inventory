@@ -1,8 +1,8 @@
-package com.globomantics.inventorymanager.integration;
+package com.acasado.inventorymanager.integration;
 
+import com.acasado.inventorymanager.model.PurchaseRecord;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.tomakehurst.wiremock.WireMockServer;
-import com.globomantics.inventorymanager.model.PurchaseRecord;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

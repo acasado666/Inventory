@@ -1,4 +1,4 @@
-package com.globomantics.inventorymanager;
+package com.acasado.inventorymanager;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

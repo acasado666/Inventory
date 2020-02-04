@@ -1,6 +1,6 @@
-package com.globomantics.inventorymanager.service;
+package com.acasado.inventorymanager.service;
 
-import com.globomantics.inventorymanager.model.InventoryRecord;
+import com.acasado.inventorymanager.model.InventoryRecord;
 
 import java.util.Optional;
 

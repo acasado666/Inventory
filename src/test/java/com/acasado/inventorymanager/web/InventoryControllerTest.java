@@ -1,9 +1,9 @@
-package com.globomantics.inventorymanager.web;
+package com.acasado.inventorymanager.web;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.globomantics.inventorymanager.model.InventoryRecord;
-import com.globomantics.inventorymanager.model.PurchaseRecord;
-import com.globomantics.inventorymanager.service.InventoryService;
+import com.acasado.inventorymanager.model.InventoryRecord;
+import com.acasado.inventorymanager.model.PurchaseRecord;
+import com.acasado.inventorymanager.service.InventoryService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

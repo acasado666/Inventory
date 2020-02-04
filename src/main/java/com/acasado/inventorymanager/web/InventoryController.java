@@ -1,7 +1,7 @@
-package com.globomantics.inventorymanager.web;
+package com.acasado.inventorymanager.web;
 
-import com.globomantics.inventorymanager.model.PurchaseRecord;
-import com.globomantics.inventorymanager.service.InventoryService;
+import com.acasado.inventorymanager.model.PurchaseRecord;
+import com.acasado.inventorymanager.service.InventoryService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.globomantics.inventorymanager.model;
+package com.acasado.inventorymanager.model;
 
 import java.io.Serializable;
 

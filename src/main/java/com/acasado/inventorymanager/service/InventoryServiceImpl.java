@@ -1,7 +1,7 @@
-package com.globomantics.inventorymanager.service;
+package com.acasado.inventorymanager.service;
 
-import com.globomantics.inventorymanager.model.InventoryRecord;
-import com.globomantics.inventorymanager.model.PurchaseRecord;
+import com.acasado.inventorymanager.model.InventoryRecord;
+import com.acasado.inventorymanager.model.PurchaseRecord;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.HttpClientErrorException;

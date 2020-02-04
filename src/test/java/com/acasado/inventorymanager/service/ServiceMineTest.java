@@ -1,4 +1,4 @@
-package com.globomantics.inventorymanager.service;
+package com.acasado.inventorymanager.service;
 
 import org.junit.jupiter.api.Test;
 

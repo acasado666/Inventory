@@ -1,4 +1,4 @@
-package com.globomantics.inventorymanager;
+package com.acasado.inventorymanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
